@@ -13,7 +13,7 @@ A aplicação desenvolvida oferece as seguintes funcionalidades:
 - **Inserção de Clientes**: Permite registrar novos clientes.
 - **Edição de Clientes**: Modificação de clientes já existentes.
 - **Exclusão de Clientes**: Remoção de clientes específicas.
-- **Consulta de Clientes**: Permite filtrar clientes por `Código`, `Nome` usando uma interface simples com caixas de texto e uma DataGrid para exibição.
+- **Consulta de Clientes**: Permite filtrar clientes por `Código`, `Nome` e 'CPF' usando uma interface simples com caixas de texto e uma DataGrid para exibição.
 
 ### CRUD de Corretores
 - **Inserção de Corretores**: Permite registrar novos corretores.
@@ -25,7 +25,7 @@ A aplicação desenvolvida oferece as seguintes funcionalidades:
 - **Inserção de Transações**: Permite registrar novas transações de cartões de crédito com os seguintes campos: `Id_Transacao`, `Numero_Cartao`, `Valor_Transacao`, `Data_Transacao`, `Descricao`.
 - **Edição de Transações**: Modificação de transações já existentes.
 - **Exclusão de Transações**: Remoção de transações específicas.
-- **Consulta de Transações**: Permite filtrar transações por `Cliente`, `CPF`, 'Ativo' e `Data` usando uma interface simples com caixas de texto e uma DataGrid para exibição.
+- **Consulta de Transações**: Permite filtrar transações por `Cliente`, `CPF`, 'Corretor', 'Ativo' e `Data` usando uma interface simples com caixas de texto e uma DataGrid para exibição.
 
 ## Tecnologias Utilizadas
 - **VB6**: Utilizado para o desenvolvimento da interface e funcionalidades do CRUD.
