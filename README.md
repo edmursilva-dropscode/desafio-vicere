@@ -47,7 +47,44 @@ O projeto é composto pelos seguintes módulos principais:
 - **Eficiência**: As queries SQL foram otimizadas para lidar com grandes volumes de dados.
 - **Interface Simples e Funcional**: A interface da aplicação é clara e de fácil uso, permitindo o gerenciamento de transações de forma eficiente.
 
+## Para teste do desafio
+- **Crie uma pasta no raiz C:\TesteVB6
+- **Descompacta os arquivos neste diretório
+- **Configura as Referências e Componentes do VB6
+- **Script da base de dados no diretório \BancoDeDados
+
+<br>
+<h1 align="center">
+    <img src="./Imagens/foto01.png">
+</h1>
+
+<br>
+<h1 align="center">
+    <img src="./Imagens/foto02.png">
+</h1>
+
+<br>
+<h1 align="center">
+    <img src="./Imagens/foto03.png">
+</h1>
+
+<br>
+<h1 align="center">
+    <img src="./Imagens/foto04.png">
+</h1>
+
+<br>
+<h1 align="center">
+    <img src="./Imagens/foto05.png">
+</h1>
+
+<br>
+<h1 align="center">
+    <img src="./Imagens/foto06.png">
+</h1>
+
+
 ## Conclusão
-Este projeto entrega uma solução completa para o gerenciamento de transações financeiras, com funcionalidades robustas e integração eficiente com o SQL Server.
+Este projeto entrega uma solução completa para o gerenciamento de clientes, corretores e transações entre os mesmos, com funcionalidades robustas e integração eficiente com o SQL Server.
 
 
